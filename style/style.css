@@ -1,0 +1,139 @@
+body {
+margin: 0;
+display: block;
+
+}
+.header {
+display: flex;
+background-color: white;
+justify-content: space-between;
+align-items: center;
+padding: 5px 15px;
+
+
+}
+.header img {
+    width: 100px;
+}
+.header-links a {
+text-decoration: none;
+font-size: 30px;
+justify-content: space-between;
+align-items: center;
+padding: 5px 15px;
+color: black;
+}
+.header-links a:hover {
+  background-color: orange;  
+  border-radius: 15px;
+}
+.order {
+    background-color: #ff5349;
+    font-size: 30px;
+    border-radius: 15px;
+}
+.order:hover {
+    background-color: orange;
+}
+.landing-page {
+    display: block;
+    
+    justify-content: center;
+    align-items: center;
+text-align: center;
+}
+
+
+
+
+.bite-house {
+    
+    color: red;
+    
+}
+.view-menu {
+    background-color: bisque;
+    border-radius: 15px;
+    font-size: 30px;
+}
+.view-menu:hover {
+    background-color: beige;
+}
+.base {
+    width: 1500px;
+    border-radius: 15px;
+    margin: 20px;
+    
+}
+footer {
+    display: flex;
+    background-color: black;
+
+    justify-content: space-between;
+    padding: 30px 30px;
+     flex-direction: column;
+}
+.foot {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+
+
+.footer-lestside-image {
+    width: 80px;
+}
+.social-media {
+    justify-content: space-between;
+    
+}
+.social-media-photo {
+    width: 30px;
+    
+}
+.footer-adress {
+    display: block;
+    color: azure;
+}
+.footer-rightside {
+    display: flex;
+    text-align: space-between;
+    gap: 80px;
+    
+}
+.rightside-content1 {
+    
+    color: azure;
+}
+.footer-link {
+    color: azure;
+    display: block;
+    text-decoration: none;
+}
+.rightside-content2 {
+    color: azure;
+    display: block;
+}
+.footer-bottom {
+    margin-top: auto;
+    display: flex;
+    color: azure;
+    width: 100%;
+    border-top: 1px solid gray;
+    padding-top: 20px;
+      justify-content: space-between;
+    align-items: center;
+    
+}
+.footer-bottom div {
+    display: flex;
+    gap: 20px;
+    
+}
+.footer-bottom div a {
+color: azure;
+    text-decoration: none;
+}
+
+
