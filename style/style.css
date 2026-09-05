@@ -9,6 +9,8 @@ background-color: white;
 justify-content: space-between;
 align-items: center;
 padding: 5px 15px;
+    width: 100%;
+    box-sizing: border-bbox;
 
 
 }
@@ -73,6 +75,8 @@ footer {
     justify-content: space-between;
     padding: 30px 30px;
      flex-direction: column;
+      width: 100%;
+    box-sizing: border-bbox;
 }
 .foot {
     display: flex;
