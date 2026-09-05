@@ -141,36 +141,6 @@ color: azure;
     text-decoration: none;
 }
 
-@media (max-width: 768px) {
 
-    body {
-        overflow-x: hidden;
-    }
-
-    header {
-        padding: 15px;
-    }
-
-    nav {
-        flex-direction: column;
-        gap: 15px;
-    }
-
-    main {
-        padding: 20px;
-    }
-
-    h1 {
-        font-size: 32px;
-    }
-
-    h2 {
-        font-size: 26px;
-    }
-
-    img {
-        max-width: 100%;
-        height: auto;
-    }
 
 }
